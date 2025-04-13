@@ -23,7 +23,7 @@ The project focuses on:
 - City Hotels experienced a higher cancellation rate compared to Resort Hotels.
 - Rebooking behavior, special requests, and average daily rate (ADR) also influenced outcomes.
 
-** Outcome**
+**Outcome**
 
 The analysis delivers data-driven insights to help hotels:
 - Optimize pricing and lead-time policies
