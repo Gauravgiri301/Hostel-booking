@@ -3,6 +3,7 @@
 **Hotel Booking Cancellation Analysis**
 
 **Overview**
+
 In recent years, both City Hotels and Resort Hotels have faced a surge in booking cancellations. These cancellations have significantly impacted their revenue, room utilization, and operational efficiency. The primary goal of this project is to analyze the key factors contributing to high cancellation rates and provide actionable business insights to reduce them.
 
 **Objective**
