@@ -24,6 +24,7 @@ The project focuses on:
 - Rebooking behavior, special requests, and average daily rate (ADR) also influenced outcomes.
 
 ** Outcome**
+
 The analysis delivers data-driven insights to help hotels:
 - Optimize pricing and lead-time policies
 - Improve room allocation strategies
